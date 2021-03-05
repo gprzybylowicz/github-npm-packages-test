@@ -1,7 +1,8 @@
 {
-  "name": "@gprzybylowicz/github-npm-packages-test",
+  "name": "@testscope/github-npm-packages-test",
   "version": "1.0.0",
   "description": "",
+  "private": true,
   "main": "index.js",
   "scripts": {
   },
