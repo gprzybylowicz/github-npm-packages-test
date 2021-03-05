@@ -1,5 +1,5 @@
 {
-  "name": "github-npm-packages-test",
+  "name": "@my-scope-name/github-npm-packages-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
